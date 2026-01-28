@@ -131,4 +131,3 @@ INSERT INTO Products (Name)
 	VALUES ('AwersomeProduct59'); 
 INSERT INTO Products (Name)
 	VALUES ('AwersomeProduct60'); 
-INSERT INTO Products (Name)
