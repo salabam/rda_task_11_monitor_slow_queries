@@ -8,7 +8,7 @@ CREATE TABLE Products (
     ID INT AUTO_INCREMENT,
     Name VARCHAR(50),
     PRIMARY KEY (ID)
-) ENGINE=InnoDB;
+) ENGINE=MyISAM;
 
 -- Create test data in Products table 
 INSERT INTO Products (Name)
